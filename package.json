@@ -22,7 +22,7 @@
     "morgan": "^1.9.1",
     "node-instagram": "^4.3.0",
     "npm": "^6.13.0",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "nodemon": "^1.19.4"
